@@ -13,7 +13,7 @@ A fun, interactive Valentine's Day page where the "Yes" button grows bigger ever
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://s-arivukkarasu.github.io/v_day_app/
 ```
 
 That's it. Done. You're welcome.
